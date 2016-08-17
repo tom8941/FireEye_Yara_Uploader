@@ -53,6 +53,8 @@ try:
     elem4 = driver.find_element_by_xpath("/html/body/div[2]/div/div[2]/div/div/div/div/div[2]/div/div[2]/div/div[1]/ul/li[10]/a")
     elem4.click()
     time.sleep(2)
+    
+    #upload the file
     elem6 = driver.find_element_by_xpath("/html/body/div[2]/div/div[2]/div/div/div/div/div/div/div[2]/div/div[3]/div/div/div/div[2]/div[5]/div/table/tbody/tr/td[2]/input")
     elem6.send_keys(YARA_FILE_PATH);
     time.sleep(2)
