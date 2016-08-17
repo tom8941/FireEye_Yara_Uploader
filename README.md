@@ -8,10 +8,10 @@ you can get an export of validated yara rules from MISP and upload it automatica
 
 - install of the following module:
  - selenium for python (http://selenium-python.readthedocs.io/installation.html)
- - The server should have a X server running
- - Be sure that the X session of the user that is running the script is open (you can even "lock the screen" of the Desktop session)
- - xterm should be installed on the system
- - This script has been desgined to run with Firefox only (some Firefox version may be incompatible with some selenium version)
+- The server should have a X server running
+- Be sure that the X session of the user that is running the script is open (you can even "lock the screen" of the Desktop session)
+- xterm should be installed on the system
+- This script has been desgined to run with Firefox only (some Firefox version may be incompatible with some selenium version)
 
 ## Usage and Examples
 
