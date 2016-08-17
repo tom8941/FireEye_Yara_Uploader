@@ -6,7 +6,7 @@ import time
 import sys
 import argparse
 
-parser = argparse.ArgumentParser(description=" ")
+parser = argparse.ArgumentParser(description="Upload yara file to FireEye CMS")
 parser.add_argument("-f", "--file", help="yara file to upload", required=True)
 parser.add_argument("-c", "--cms", help="cms ip or hostname", required=True)
 parser.add_argument("-u", "--user", help="cms user account", required=True)
