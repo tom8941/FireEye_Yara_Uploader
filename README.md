@@ -27,6 +27,8 @@ DISPLAY=:0 xterm -e './fe_yara_uploader.py -u user -p password -c cmsfireeye.loc
 If there is some errors you can add -hold option in front of xterm to let the Xwindow open
 ```
 
+You can modify time.sleep() in the script if you want. There are not always necessary.
+
 ## External Source
  
 selenium : http://www.seleniumhq.org/
