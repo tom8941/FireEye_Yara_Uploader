@@ -3,7 +3,6 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time
-import sys
 import argparse
 
 parser = argparse.ArgumentParser(description="Upload yara file to FireEye CMS")
