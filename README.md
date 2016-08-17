@@ -31,5 +31,5 @@ You can modify time.sleep() in the script if you want. There are not always nece
 
 ## External Source
  
-selenium : http://www.seleniumhq.org/
-MISP-IOC-Validator : https://github.com/tom8941/MISP-IOC-Validator
+- selenium : http://www.seleniumhq.org/
+- MISP-IOC-Validator : https://github.com/tom8941/MISP-IOC-Validator
