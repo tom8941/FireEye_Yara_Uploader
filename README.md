@@ -1,7 +1,7 @@
 # FireEye_Yara_Uploader
 
 This is a little script that give the possibility to upload yara file automatically on fireeye cms.
-By combining this project with my other one : MISP-IOC-Validator (https://github.com/tom8941/MISP-IOC-Validator),
+By combining this project with this other one to export yara from MISP: MISP-IOC-Validator (https://github.com/tom8941/MISP-IOC-Validator),
 you can get an export of validated yara rules from MISP and upload it automatically into FireEye CMS.
 
 ## Prerequisite
@@ -32,3 +32,4 @@ You can modify time.sleep() in the script if you want. There are not always nece
 ## External Source
  
 selenium : http://www.seleniumhq.org/
+MISP-IOC-Validator : https://github.com/tom8941/MISP-IOC-Validator
